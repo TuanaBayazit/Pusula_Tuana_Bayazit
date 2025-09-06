@@ -23,7 +23,7 @@ Project scope:
 ## 2. File Descriptions
 
 - **Talent_Academy_Case_DT_2025.xlsx**: Original dataset (2235 observations, 13 features).
-- **EDA.ipynb** → Dataset exploration, statistical summaries, and visualizations (histograms, scatter plots, heatmaps)
+- **eda.ipynb** → Dataset exploration, statistical summaries, and visualizations (histograms, scatter plots, heatmaps)
 - **preprocessing.ipynb** → Data cleaning and preprocessing steps:
 - Filling in missing values
 - Coding categorical variables

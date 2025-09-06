@@ -25,11 +25,11 @@ Project scope:
 - **Talent_Academy_Case_DT_2025.xlsx**: Original dataset (2235 observations, 13 features).
 - **eda.ipynb** → Dataset exploration, statistical summaries, and visualizations (histograms, scatter plots, heatmaps)
 - **preprocessing.ipynb** → Data cleaning and preprocessing steps:
-- Filling in missing values
-- Coding categorical variables
-- Processing of comma-separated values ​​(presence flag for the top 5 items)
-- Standardization of numerical features
-- Preparation of training and test sets
+  - Filling in missing values
+  - Coding categorical variables
+  - Processing of comma-separated values ​​(presence flag for the top 5 items)
+  - Standardization of numerical features
+  - Preparation of training and test sets
 - **preprocessed_case_study.csv** → Dataset ready for modeling after preprocessing
 - **preprocessor.joblib** → Preprocessing pipeline, reusable and ready for modeling
 - **README.md** → Project description and instructions

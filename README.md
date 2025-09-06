@@ -1,5 +1,6 @@
 # Talent Academy Data Science Case Study
-**Prepared by:** Tuana Bayazıt
+**Prepared by:** Tuana Bayazıt 
+
 **Email:** byztuana@gmail.com
 
 ---
